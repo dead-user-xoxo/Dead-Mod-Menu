@@ -1,6 +1,8 @@
 Hi This Is Mod Menu For The Game: Gorilla Tag Made By Dead!      
 
 
+current mod menu info
+name:DeadMenu
 Menu Version:V1 
 Menu type:Beta
 
