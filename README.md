@@ -9,7 +9,7 @@ Menu type:Beta
 
 
 
-hi so the souce code for this mod menu is kept private to stop skidding! (tho might chance idk yet!)
+hi so the souce code for this mod menu is kept private to stop skidding!
 
 
 
